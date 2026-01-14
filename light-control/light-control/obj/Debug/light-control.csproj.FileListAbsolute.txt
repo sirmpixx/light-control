@@ -1,0 +1,10 @@
+D:\coding\light-control\light-control\light-control\bin\Debug\light-control.exe.config
+D:\coding\light-control\light-control\light-control\bin\Debug\light-control.exe
+D:\coding\light-control\light-control\light-control\bin\Debug\light-control.pdb
+D:\coding\light-control\light-control\light-control\obj\Debug\light-control.csproj.AssemblyReference.cache
+D:\coding\light-control\light-control\light-control\obj\Debug\light_control.Form1.resources
+D:\coding\light-control\light-control\light-control\obj\Debug\light_control.Properties.Resources.resources
+D:\coding\light-control\light-control\light-control\obj\Debug\light-control.csproj.GenerateResource.cache
+D:\coding\light-control\light-control\light-control\obj\Debug\light-control.csproj.CoreCompileInputs.cache
+D:\coding\light-control\light-control\light-control\obj\Debug\light-control.exe
+D:\coding\light-control\light-control\light-control\obj\Debug\light-control.pdb
