@@ -32,6 +32,7 @@ namespace light_control
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainWindow));
             this.btnSettings = new System.Windows.Forms.Button();
+            this.lblTest = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnSettings
@@ -40,7 +41,8 @@ namespace light_control
             this.btnSettings.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnSettings.BackgroundImage")));
             this.btnSettings.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnSettings.Cursor = System.Windows.Forms.Cursors.Default;
-            this.btnSettings.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSettings.FlatAppearance.BorderSize = 0;
+            this.btnSettings.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSettings.ForeColor = System.Drawing.Color.Transparent;
             this.btnSettings.Location = new System.Drawing.Point(1196, 12);
             this.btnSettings.Name = "btnSettings";
@@ -49,8 +51,17 @@ namespace light_control
             this.btnSettings.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnSettings.UseVisualStyleBackColor = false;
             this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
-            this.btnSettings.FlatStyle = FlatStyle.Flat;
-            this.btnSettings.FlatAppearance.BorderSize = 0;
+            // 
+            // lblTest
+            // 
+            this.lblTest.AutoSize = true;
+            this.lblTest.Font = new System.Drawing.Font("Roboto Condensed", 16F);
+            this.lblTest.Location = new System.Drawing.Point(463, 279);
+            this.lblTest.Name = "lblTest";
+            this.lblTest.Size = new System.Drawing.Size(65, 27);
+            this.lblTest.TabIndex = 1;
+            this.lblTest.Text = "label1";
+            this.lblTest.Click += new System.EventHandler(this.lblTest_Click);
             // 
             // mainWindow
             // 
@@ -58,6 +69,7 @@ namespace light_control
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.lblTest);
             this.Controls.Add(this.btnSettings);
             this.Font = new System.Drawing.Font("Roboto Condensed", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.Transparent;
@@ -68,12 +80,14 @@ namespace light_control
             this.Text = "Light-Control";
             this.Load += new System.EventHandler(this.mainWindow_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.Button btnSettings;
+        private Label lblTest;
     }
 }
 

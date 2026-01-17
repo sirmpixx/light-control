@@ -19,5 +19,10 @@ namespace light_control
         {
 
         }
+
+        private void lblTest_Click(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }

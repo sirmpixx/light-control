@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\coding\\light-control\\light-control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|d:\\coding\\light-control\\light-control\\light-control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|d:\\coding\\light-control\\light-control\\light-control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|d:\\coding\\light-control\\light-control\\light-control\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\mainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|d:\\coding\\light-control\\light-control\\light-control\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|D:\\coding\\light-control\\light-control\\light-control\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|D:\\coding\\light-control\\light-control\\light-control\\winsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\winsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|D:\\coding\\light-control\\light-control\\light-control\\winsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\winsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|D:\\coding\\light-control\\light-control\\light-control\\winsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8C0D54-289C-4D2B-B88F-D9CF9DD2CBC3}|light-control\\light-control.csproj|solutionrelative:light-control\\winsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Entwurf]",
-              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\Form1.cs",
-              "RelativeDocumentMoniker": "light-control\\Form1.cs",
-              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\Form1.cs [Entwurf]",
-              "RelativeToolTip": "light-control\\Form1.cs [Entwurf]",
+              "DocumentIndex": 1,
+              "Title": "mainWindow.Designer.cs",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "light-control\\mainWindow.Designer.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.Designer.cs",
+              "RelativeToolTip": "light-control\\mainWindow.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:14:23.107Z",
+              "WhenOpened": "2026-01-17T13:17:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainWindow.cs",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.cs",
+              "RelativeDocumentMoniker": "light-control\\mainWindow.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.cs",
+              "RelativeToolTip": "light-control\\mainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:16:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\Program.cs",
+              "RelativeDocumentMoniker": "light-control\\Program.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\Program.cs",
+              "RelativeToolTip": "light-control\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T12:57:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinSettings.cs",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.cs",
+              "RelativeDocumentMoniker": "light-control\\WinSettings.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.cs",
+              "RelativeToolTip": "light-control\\WinSettings.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:41:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinSettings.Designer.cs",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.Designer.cs",
+              "RelativeDocumentMoniker": "light-control\\WinSettings.Designer.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.Designer.cs",
+              "RelativeToolTip": "light-control\\WinSettings.Designer.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAvwNIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:37:50.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainWindow.cs [Entwurf]",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.cs",
+              "RelativeDocumentMoniker": "light-control\\mainWindow.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\mainWindow.cs [Entwurf]",
+              "RelativeToolTip": "light-control\\mainWindow.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:38:57.733Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinSettings.cs [Entwurf]",
+              "DocumentMoniker": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.cs",
+              "RelativeDocumentMoniker": "light-control\\WinSettings.cs",
+              "ToolTip": "D:\\coding\\light-control\\light-control\\light-control\\WinSettings.cs [Entwurf]",
+              "RelativeToolTip": "light-control\\WinSettings.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:26:35.726Z",
               "EditorCaption": " [Entwurf]"
             }
           ]
